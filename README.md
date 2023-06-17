@@ -1,8 +1,6 @@
 # Multi-agent-Multi-target-path-planning-in-MDPs
 
-This is the code base for the below paper.
-
-F. Nawaz and M. Ornik, "Multi-agent, Multi-target Path Planning in Markov Decision Processes," in IEEE Transactions on Automatic Control, doi: [10.1109/TAC.2023.3286807](https://ieeexplore.ieee.org/document/10154136).
+This is the code base for the paper **F. Nawaz and M. Ornik, "Multi-agent, Multi-target Path Planning in Markov Decision Processes," in IEEE Transactions on Automatic Control, doi:** [10.1109/TAC.2023.3286807](https://ieeexplore.ieee.org/document/10154136).
 
 Run the code VI_heur_multi.m for multi-agent planning, and VI_heur_single.m for single-agent planning. The MDP, initial state, and targets should be given as inputs. The functionality of each code is given below. 
 
